@@ -318,4 +318,3 @@ Andrew->>China: I am good thanks!
 
 ###End
 
-#Created by ALL
